@@ -1,0 +1,10 @@
+HTML code:	#6BDEDE
+RGB --> R 107 G 222 B 222
+HSV --> H 180 S 52 V 87
+HSL --> H 180 S 64 L 65
+
+
+theam color : #26F2D9
+RGB --> R 38 G 242 B 217
+HSV --> H 172.6 S 84 V 95
+HSL --> H 72.6 S 89 L 55
